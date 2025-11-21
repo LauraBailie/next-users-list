@@ -1,5 +1,13 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+Features:
+- Users list with real-time search functionality
+- Dark theme and hover effects
+- User detail pages and API route
+- Loading and error states
+
+Live: https://next-users-list-ebon.vercel.app/
+
 ## Getting Started
 
 First, run the development server:
